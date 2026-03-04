@@ -1,17 +1,17 @@
-### 
-GET http://phonebook-p.onrender.com/api/persons
+### Get all persons
+GET http://localhost:3001/api/persons
 
-### 
-DELETE http://phonebook-p.onrender.com/api/persons/947450
+### Delete a person
+DELETE http://localhost:3001/api/persons/947450
 
-### 
-POST http://phonebook-p.onrender.com/api/persons Content-type: application/json
+### Create a new person
+POST http://localhost:3001/api/persons
+Content-type: application/json
 
 {
-"name": "yes",
-"number": "123456789"
+  "name": "yes",
+  "number": "123456789"
 }
 
-### 
-
-GET http://phonebook-p.onrender.com/api/persons
+### Get all persons again
+GET http://localhost:3001/api/persons
