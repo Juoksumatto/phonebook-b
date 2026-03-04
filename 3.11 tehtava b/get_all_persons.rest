@@ -1,11 +1,11 @@
 ### Get all persons
-GET https://phonebook-p.onrender.com/api/persons
+GET https://phonebook-b.onrender.com/api/persons
 
 ### Delete a person
-DELETE https://phonebook-p.onrender.com/api/persons/947450
+DELETE https://phonebook-b.onrender.com/api/persons/947450
 
 ### Create a new person
-POST https://phonebook-p.onrender.com/api/persons
+POST https://phonebook-b.onrender.com/api/persons
 Content-type: application/json
 
 {
@@ -14,4 +14,4 @@ Content-type: application/json
 }
 
 ### Get all persons
-GET https://phonebook-p.onrender.com/api/persons
+GET https://phonebook-b.onrender.com/api/persons
