@@ -13,5 +13,5 @@ Content-type: application/json
   "number": "123456789"
 }
 
-### Get all persons again
+### Get all persons
 GET http://localhost:3001/api/persons
