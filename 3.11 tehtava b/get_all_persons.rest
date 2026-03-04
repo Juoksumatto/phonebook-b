@@ -1,11 +1,11 @@
 ### 
-GET http://phonebook-p51o.onrender.com/api/persons
+GET http://phonebook-p.onrender.com/api/persons
 
 ### 
-DELETE http://phonebook-p51o.onrender.com/api/persons/947450
+DELETE http://phonebook-p.onrender.com/api/persons/947450
 
 ### 
-POST http://phonebook-p51o.onrender.com/api/persons Content-type: application/json
+POST http://phonebook-p.onrender.com/api/persons Content-type: application/json
 
 {
 "name": "yes",
@@ -13,4 +13,5 @@ POST http://phonebook-p51o.onrender.com/api/persons Content-type: application/js
 }
 
 ### 
-GET http://phonebook-p51o.onrender.com/api/persons
+
+GET http://phonebook-p.onrender.com/api/persons
