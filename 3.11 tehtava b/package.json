@@ -5,12 +5,11 @@
   "description": "Fullstack phonebook app",
   "type": "commonjs",
   "scripts": {
-    "build": "cd \"3.11 tehtävä b\" && npm run build",
-    "start": "cd backend && npm start",
     "dev": "cd backend && npm run dev",
     "postinstall": "cd backend && npm install"
   },
   "engines": {
     "node": "22"
   }
+
 }
